@@ -20,53 +20,55 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        [cite_start]I am a <b>Master's student in Computer Science and Engineering</b> specializing in Artificial Intelligence at the <b>University of Oulu</b>[cite: 15].
-      </p>
-      <p>
-        I have a passion for building scalable data pipelines and cloud infrastructure. My background combines rigorous academic research in AI with hands-on industrial experience.
-      </p>
-      <ul>
-        [cite_start]<li>🔭 <b>Experience:</b> Building ETL pipelines with <b>AWS</b> & <b>Databricks</b>[cite: 22, 23].</li>
-        [cite_start]<li>🎓 <b>Education:</b> B.Sc. in CS (GPA 4.1/5.0)[cite: 16].</li>
-        [cite_start]<li>🏆 <b>Certifications:</b> Azure Fundamentals (AZ-900)[cite: 12].</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      <p align="center">
-        <b>Languages</b><br/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-      </p>
-      <p align="center">
-        <b>Cloud & Ops</b><br/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      </p>
-      <p align="center">
-        <b>Data & Tools</b><br/>
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+I bridge the world of **Data Engineering** with **Artificial Intelligence**.
+
+[cite_start]Professionally, I specialize in building scalable **ETL pipelines** and cloud infrastructure (AWS & Databricks)[cite: 22, 23]. [cite_start]Academically, I am pivoting deeper into the theory and application of **AI & Machine Learning** through my Master's studies[cite: 15].
+
+* [cite_start]🔭 **Industry Focus:** Designing robust data architectures and cloud workflows[cite: 8, 20].
+* [cite_start]🌱 **Academic Focus:** Advanced AI and Machine Learning research at the University of Oulu[cite: 15].
+* [cite_start]🎓 **Education:** B.Sc. in Computer Science (GPA 4.1/5.0)[cite: 16].
+* [cite_start]🏆 **Certifications:** Azure Fundamentals (AZ-900)[cite: 12].
+
+---
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RoniKarppinen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Roni's Stats" />
+
+### 🛠️ Technical Skills
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+#### 📊 Data & Tools
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoniKarppinen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniKarppinen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
