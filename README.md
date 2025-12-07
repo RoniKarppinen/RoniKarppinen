@@ -2,7 +2,7 @@
 
   # Hi there, I'm Roni Karppinen! 👋
 
-  ### Data Engineer | Software Developer | AI Enthusiast
+  ### Computer Science and Engineer student with a background in data and AI
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Building+Scalable+Pipelines;Master's+Student+in+AI;AWS+%" alt="Typing SVG" />
@@ -25,9 +25,8 @@
 
 I am a **Master's student in Computer Science and Engineering** specializing in artificial intelligence at the **University of Oulu**. I have a passion for building scalable data pipelines and working with cloud infrastructure.
 
-* 🔭 **Experience:** I have hands-on experience building ETL pipelines at **OP Financial Group** using **AWS** and **Azure Databricks**.
-* 🌱 **Current Focus:** I am deepening my knowledge in Artificial Intelligence and large-scale data processing.
-* 🎓 **Education:** B.Sc. in Computer Science (GPA 4.1/5.0) & currently pursuing M.Sc.
+* 🔭 **Experience:** I have hands-on experience building ETL pipelines using **AWS** and **Databricks**.
+* 🎓 **Education:** B.Sc. in Computer Science and currently pursuing M.Sc. specializing in AI.
 * 🏆 **Certifications:** Azure Fundamentals (AZ-900).
 
 ---
@@ -41,6 +40,7 @@ I am a **Master's student in Computer Science and Engineering** specializing in 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 #### ☁️ Cloud & Infrastructure
