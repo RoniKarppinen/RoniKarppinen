@@ -63,14 +63,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-| **SmartFood** | **European Soccer Analysis** |
-|:---:|:---:|
-| 📱 **Flutter & LLM** | ⚽ **Azure Synapse & Power BI** |
-| Developed a mobile app providing personalized food recommendations using **LLMs**. [cite_start]Built with **Flutter** and **Firebase**. [cite: 30, 31] | [cite_start]Extracted and analyzed 25k matches using **Azure Synapse** and visualized insights via **Power BI**. [cite: 33, 34] |
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoniKarppinen&show_icons=true&theme=radical" height="180" alt="stats graph"  />
