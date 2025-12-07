@@ -5,11 +5,11 @@
   ### Data Engineer | Software Developer | AI Enthusiast
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Building+Scalable+Pipelines;Master's+Student+in+AI;AWS+%26+Databricks+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Building+Scalable+Pipelines;Master's+Student+in+AI;AWS+%" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://linkedin.com/in/your-linkedin-url">
+    <a href="https://linkedin.com/in/ronikarppinen">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:karppinenroni@gmail.com">
