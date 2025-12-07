@@ -26,7 +26,7 @@ I have hands-on experience in **Data Engineering** and currently studying **Arti
 
 * 🔭 **Experience:** I have hands-on experience building ETL pipelines using **AWS** and **Databricks**. 
 * 🎓 **Education:** B.Sc. in Computer Science and Engineering and currently pursuing M.Sc.
-* 🏆 **Certifications:** Azure Fundamentals (AZ-900)[cite: 12].
+* 🏆 **Certifications:** Azure Fundamentals (AZ-900).
 
 ---
 
