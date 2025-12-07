@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Roni Karppinen!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Data+Engineer+%26+AI+Student;Building+Scalable+Pipelines;AWS+%26+Databricks+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Data+Engineer+%26+AI+Student;Building+Scalable+Pipelines;" alt="Typing SVG" />
   </a>
 
   <p>
@@ -22,14 +22,11 @@
 
 ### 👨‍💻 About Me
 
-I bridge the world of **Data Engineering** with **Artificial Intelligence**.
+I have hands-on experience in **Data Engineering** and currently studying **Artificial Intelligence**. I have a passion for building scalable data pipelines and working with cloud infrastructure. Fascinated by the potential of AI, machine learning and data-driven technologies, I enjoy exploring how intelligent systems work and finding practical ways to apply them to solve real-world problems.
 
-[cite_start]Professionally, I specialize in building scalable **ETL pipelines** and cloud infrastructure (AWS & Databricks)[cite: 22, 23]. [cite_start]Academically, I am pivoting deeper into the theory and application of **AI & Machine Learning** through my Master's studies[cite: 15].
-
-* [cite_start]🔭 **Industry Focus:** Designing robust data architectures and cloud workflows[cite: 8, 20].
-* [cite_start]🌱 **Academic Focus:** Advanced AI and Machine Learning research at the University of Oulu[cite: 15].
-* [cite_start]🎓 **Education:** B.Sc. in Computer Science (GPA 4.1/5.0)[cite: 16].
-* [cite_start]🏆 **Certifications:** Azure Fundamentals (AZ-900)[cite: 12].
+* 🔭 **Experience:** I have hands-on experience building ETL pipelines using **AWS** and **Databricks**. 
+* 🎓 **Education:** B.Sc. in Computer Science and Engineering and currently pursuing M.Sc.
+* 🏆 **Certifications:** Azure Fundamentals (AZ-900)[cite: 12].
 
 ---
 
