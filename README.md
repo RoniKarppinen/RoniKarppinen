@@ -23,12 +23,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **Master's student in Computer Science and Engineering** (specializing in AI) at the **University of Oulu**[cite: 15]. I have a passion for building scalable data pipelines and working with cloud infrastructure.
+I am a **Master's student in Computer Science and Engineering** specializing in artificial intelligence at the **University of Oulu**. I have a passion for building scalable data pipelines and working with cloud infrastructure.
 
-* [cite_start]🔭 **Experience:** I have hands-on experience building ETL pipelines at **OP Financial Group** using **AWS** and **Azure Databricks**[cite: 20, 22, 25].
-* [cite_start]🌱 **Current Focus:** I am deepening my knowledge in Artificial Intelligence and large-scale data processing[cite: 9, 15].
-* [cite_start]🎓 **Education:** B.Sc. in Computer Science (GPA 4.1/5.0) & currently pursuing M.Sc.[cite: 15, 16].
-* [cite_start]🏆 **Certifications:** Azure Fundamentals (AZ-900)[cite: 12].
+* 🔭 **Experience:** I have hands-on experience building ETL pipelines at **OP Financial Group** using **AWS** and **Azure Databricks**.
+* 🌱 **Current Focus:** I am deepening my knowledge in Artificial Intelligence and large-scale data processing.
+* 🎓 **Education:** B.Sc. in Computer Science (GPA 4.1/5.0) & currently pursuing M.Sc.
+* 🏆 **Certifications:** Azure Fundamentals (AZ-900).
 
 ---
 
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-#### 📊 Data Engineering & Tools
+#### 📊 Tools
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
