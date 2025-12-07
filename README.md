@@ -63,9 +63,3 @@ I have hands-on experience in **Data Engineering** and currently studying **Arti
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoniKarppinen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniKarppinen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
